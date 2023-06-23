@@ -4,7 +4,7 @@ Edit: fixed some stuff.
 
 This repository is for showing how Git and GitHub work
 
-Added a line for rebasing example
+Added a line for rebasing example, more changes from myfeature as well
 
 ## Purpose
 
