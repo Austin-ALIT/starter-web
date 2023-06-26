@@ -10,4 +10,4 @@ Added a line for rebasing example, more changes from myfeature as well
 
 Sample website with plenty of files for demos
 
-Copyright branch stuffs. 
+Copyright branch stuffs, all rights reserved
